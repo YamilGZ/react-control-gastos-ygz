@@ -28,7 +28,7 @@ Aplicación React para planificar y controlar gastos personales. El usuario defi
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/<tu-usuario>/react-control-gastos-contextapi.git
+git clone https://github.com/YamilGZ/react-control-gastos-ygz.git
 
 # 2. Entrar al directorio
 cd react-control-gastos-contextapi
